@@ -2,6 +2,8 @@
 
 A modern full-stack ecommerce platform built with React frontend and FastAPI backend, featuring real-time updates, user authentication, and intelligent product management.
 
+video pitch and demo: https://youtu.be/YVKKiZY9ivU?si=N3DOFIxuV_EB4Pdu 
+
 ## 🏗️ Architecture
 
 - **Frontend**: React + Vite + TypeScript + Tailwind CSS
